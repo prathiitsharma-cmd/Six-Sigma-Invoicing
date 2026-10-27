@@ -1,0 +1,8 @@
+# competition-supplied case workbook (not ours to redistribute)
+data/*.xlsx
+# generated results
+outputs/
+precomputed/
+__pycache__/
+*.pyc
+.venv/
